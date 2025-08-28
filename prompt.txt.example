@@ -1,0 +1,7 @@
+Summarize this conversation to be used as a summary of an activity in your workflow management platform.
+- Refer to me (@username) as I or @username.
+- This will be pasted into the content field and other metadata will be added manually. Only summarize the conversation. Don't add things such as participants or date.
+- Do not use bullet points (-).
+- Make sure the summary is long enough not to miss any key points.
+
+Example: '@username spoke with John Doe about migrating from legacy system to new platform.'
